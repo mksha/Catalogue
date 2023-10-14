@@ -1,0 +1,18 @@
+{
+  "obsidian-git:list-changed-files": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-git:open-history-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ]
+}
